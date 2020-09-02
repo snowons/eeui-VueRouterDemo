@@ -1,0 +1,8 @@
+{
+	"name": "eeui-vue_router_demo",
+	"appName": "VueRouterDemo",
+	"applicationID": "app.eeui.demo",
+	"bundleIdentifier": "app.eeui.demo",
+	"release": "2.3.11",
+	"location": "eeui"
+}
